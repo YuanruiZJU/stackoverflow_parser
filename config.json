@@ -1,10 +1,21 @@
 {
+  # File Name
   "file-name": "Posts.xml",
-  "root-path": "C://stack_overflow/",
+  
+  # Parent Directory of Posts.xml
+  "root-path": "",
+  
+  # Store db type
   "db-type": "mongo",
   "db-password": "",
+  
+  # For each tag, it stores a db.
   "db-name-prefix": "stack_overflow",
+  
+  
   "clean-db-name": "stack_overflow",
+  
+  
   "questions-dir": "questions",
   "answers-dir": "answers",
   "question-dump-name": "question.dump",
