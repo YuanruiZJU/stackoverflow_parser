@@ -1,15 +1,15 @@
 {
-  # File Name
+  <!--File Name-->
   "file-name": "Posts.xml",
   
-  # Parent Directory of Posts.xml
+  <!--Parent Directory of Posts.xml-->
   "root-path": "",
   
-  # Store db type
+  <!--Store db type-->
   "db-type": "mongo",
   "db-password": "",
   
-  # For each tag, it stores a db.
+  <!--For each tag, it stores a db-->
   "db-name-prefix": "stack_overflow",
   
   
